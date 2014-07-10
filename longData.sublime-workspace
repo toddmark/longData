@@ -183,7 +183,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4886,
+				"buffer_size": 4851,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,7 +199,7 @@
 			"file": "style/product.css",
 			"settings":
 			{
-				"buffer_size": 10502,
+				"buffer_size": 10514,
 				"line_ending": "Windows"
 			}
 		}
@@ -791,15 +791,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4886,
+						"buffer_size": 4851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2133,
-								1892
+								0,
+								0
 							]
 						],
 						"settings":
@@ -848,15 +848,15 @@
 					"file": "style/product.css",
 					"settings":
 					{
-						"buffer_size": 10502,
+						"buffer_size": 10514,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5662,
-								5662
+								5123,
+								5123
 							]
 						],
 						"settings":
