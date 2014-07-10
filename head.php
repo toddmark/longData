@@ -31,7 +31,7 @@
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>
-			    	<a href="javascript:void(0);">关于</a>
+			    	<a href="about.php">关于</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			</ul>
