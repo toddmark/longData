@@ -18,16 +18,21 @@
 		</div>
 		<div class="mt10 clearFloat fr rightBtn">
 			<ul class="clearFloat nav">
+				<li>
+					<a href="index.php">首页</a>
+			    	<span class="fr ccc">|</span>
+				</li>
 			    <li>
 			    	<a href="index.php">产品</a>
+			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>
-			    	<span class="fl ccc">|</span>
 			    	<a href="case.php">案例</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>
 			    	<a href="javascript:void(0);">关于</a>
+			    	<span class="fr ccc">|</span>
 			    </li>
 			</ul>
 			<div class="secondList">

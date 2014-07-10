@@ -92,7 +92,7 @@ function switchResume(){
 }
 
 function navInteract(){
-	var navList = $('.nav li');
+	var navList = $('.nav li:gt(0)');
 	var secList = $('.secondList ul');
 	// First list show
 	navList.each(function (i){

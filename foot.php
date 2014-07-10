@@ -2,11 +2,11 @@
 	<div class="clearFloat footer">
 		<div class="w960 m0a container">
 			<div class="fl numberInfo">
-				<div class="placeHolder50"></div>
+				<div class="placeHolder30"></div>
 				<p class="pl100 m0a"><span class="quanguoyewu">全国业务</span><br><span>统一咨询电话</span></p>			
 				<h1>021-12345678</h1>
 			</div>
-			<div class="fr">
+			<div class="fl ml100">
 				<div class="textPanel">
 					<ul class="clearFloat footNav">
 						<li><a href="javascript:void(0);">产品</a></li>

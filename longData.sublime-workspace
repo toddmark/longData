@@ -180,18 +180,18 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "foot.php",
 			"settings":
 			{
-				"buffer_size": 4851,
+				"buffer_size": 671,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "script/product.js",
+			"file": "head.php",
 			"settings":
 			{
-				"buffer_size": 6302,
+				"buffer_size": 2237,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,7 +199,24 @@
 			"file": "style/product.css",
 			"settings":
 			{
-				"buffer_size": 10514,
+				"buffer_size": 10622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "1. css sprit \n2. foot.php",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows",
+				"name": "1. css sprit"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 14007,
 				"line_ending": "Windows"
 			}
 		}
@@ -207,9 +224,25 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"setyphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
 			[
 				"frl",
 				"File: Reveal"
@@ -217,10 +250,6 @@
 			[
 				"frrl",
 				"Preferences: Package Control Settings – Default"
-			],
-			[
-				"rename",
-				"File: Rename"
 			],
 			[
 				"delete",
@@ -483,7 +512,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 424.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -500,8 +529,15 @@
 	},
 	"file_history":
 	[
-		"/E/github/longData/about.html",
+		"/E/github/longData/case.php",
+		"/E/github/longData/script/product.js",
+		"/E/github/longData/about.php",
+		"/E/github/longData/index.php",
+		"/E/github/longData/index.html",
 		"/E/github/longData/case.html",
+		"/E/github/longData/about.html",
+		"/D/tool/xampp/htdocs/index.php",
+		"/E/github/longData/style/product.css",
 		"/E/github/longData/script/popUp&playRoll.js",
 		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/E/OneDrive/ToddMark/css权重问题.html",
@@ -632,6 +668,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ml60",
+			"f",
+			"fl",
+			"html",
 			"index",
 			"jpg",
 			"tab4",
@@ -755,11 +795,7 @@
 			"param2",
 			"value1",
 			"param1",
-			"returnIndex",
-			"address",
-			"child",
-			"stop",
-			"li"
+			"returnIndex"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -783,23 +819,52 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "foot.php",
 					"settings":
 					{
-						"buffer_size": 4851,
+						"buffer_size": 671,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "head.php",
+					"settings":
+					{
+						"buffer_size": 2237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
 							]
 						],
 						"settings":
@@ -810,35 +875,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 252.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "script/product.js",
-					"settings":
-					{
-						"buffer_size": 6302,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6302,
-								6302
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3655.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -848,15 +885,15 @@
 					"file": "style/product.css",
 					"settings":
 					{
-						"buffer_size": 10514,
+						"buffer_size": 10622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5123,
-								5123
+								4548,
+								4548
 							]
 						],
 						"settings":
@@ -867,7 +904,64 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2668.0,
+						"translation.y": 2498.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1. css sprit",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.php",
+					"settings":
+					{
+						"buffer_size": 14007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -920,6 +1014,26 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"abphp",
+				"about.php"
+			],
+			[
+				"casphp",
+				"case.php"
+			],
+			[
+				"p.js",
+				"script/product.js"
+			],
+			[
+				"procss",
+				"style/product.css"
+			],
+			[
+				"html",
+				"index.html"
+			],
 			[
 				"ab",
 				"about.html"
@@ -1411,26 +1525,6 @@
 			[
 				"confi",
 				"1/config.php"
-			],
-			[
-				"op",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"opedb",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"testp",
-				"1/test.php"
-			],
-			[
-				"tesphp",
-				"1/test.php"
-			],
-			[
-				"tesph",
-				"1/test.php"
 			]
 		],
 		"width": 0.0

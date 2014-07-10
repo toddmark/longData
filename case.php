@@ -2,7 +2,7 @@
 	<!-- caseMain -->
 	<div class="w960 m0a caseMain">
 		<div class="clearFloat">
-			<div class="fl ml60 sideBar">
+			<div class="fl  sideBar">
 				<ul>
 					<li>
 						<a class="customer" href="javascript:void(0):"></a>

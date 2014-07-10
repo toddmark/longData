@@ -3,7 +3,7 @@
 	<!-- aboutMain -->
 	<div class="w960 m0a aboutMain">
 		<div class="pt20 clearFloat">
-			<div class="fl ml60 sideBar">
+			<div class="fl sideBar">
 				<ul>
 					<li>
 						<a class="aboutUs" href="#aboutUs"></a>
@@ -19,7 +19,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="fl ml60 main">
+			<div class="fl ml100 main">
 				<div class="content" id="aboutUs">
 					<p>龙默升科技是领先的商用智能路由器生产商、商用智能WiFi方案提供商与服务运营商。</p>
 					<p>龙默升科技在全球范围内，为机场、火车站、客运中心等交通枢纽，巴士、列车等交通工具，餐厅、咖啡馆、 美发沙龙内等商户广泛提供免费WiFi，让沟通更加便捷，旅程充满乐趣、等待不再漫长。</p> <p>龙默升在为终端用户提供更快速、更易用、更场景化也更有趣的WiFi体验的同时，也为这些场所的拥有者， 提供精准的人群数据分析，并在此基础上提供完善的BI服务解决方案、与精准营销内容分发平台。</p>
