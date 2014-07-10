@@ -1,0 +1,17 @@
+handleDefaults.cssStyle	script\product.js	/^		function cssStyle() {$/;"	f
+jQuery.tod.popMask	script\product.js	/^	popMask: function(child, options) {$/;"	m
+jQuery.tod.popMask.closePop	script\product.js	/^		function closePop() {$/;"	f
+jQuery.tod.popMask.handleDefaults	script\product.js	/^		function handleDefaults() {$/;"	f
+jQuery.tod.popMask.play	script\product.js	/^		function play(){$/;"	f
+jQuery.tod.popMask.popup	script\product.js	/^		function popup() {$/;"	f
+navInteract	script\product.js	/^function navInteract(){$/;"	f
+play.reset	script\product.js	/^		function reset(){$/;"	f
+playRoll	script\product.js	/^function playRoll(){$/;"	f
+scrollSideBar	script\product.js	/^function scrollSideBar(){$/;"	f
+switchResume	script\product.js	/^function switchResume(){$/;"	f
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

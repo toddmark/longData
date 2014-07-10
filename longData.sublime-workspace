@@ -183,7 +183,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4832,
+				"buffer_size": 4886,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script/product.js",
+			"settings":
+			{
+				"buffer_size": 6302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style/product.css",
+			"settings":
+			{
+				"buffer_size": 10502,
 				"line_ending": "Windows"
 			}
 		}
@@ -191,16 +207,20 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 380.0,
 		"selected_items":
 		[
 			[
-				"rename",
-				"File: Rename"
-			],
-			[
 				"frl",
 				"File: Reveal"
+			],
+			[
+				"frrl",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"rename",
+				"File: Rename"
 			],
 			[
 				"delete",
@@ -463,7 +483,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 464.0
+		"width": 424.0
 	},
 	"console":
 	{
@@ -480,6 +500,10 @@
 	},
 	"file_history":
 	[
+		"/E/github/longData/about.html",
+		"/E/github/longData/case.html",
+		"/E/github/longData/script/popUp&playRoll.js",
+		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/E/OneDrive/ToddMark/css权重问题.html",
 		"/C/Users/Administrator/Desktop/shadowsocks-masters/shadowsocks-master/config.json",
 		"/E/OneDrive/ToddMark/无意义，测试远程同步",
@@ -608,6 +632,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"index",
+			"jpg",
 			"tab4",
 			"href",
 			"id",
@@ -733,9 +759,7 @@
 			"address",
 			"child",
 			"stop",
-			"li",
-			"test",
-			"panelPreview"
+			"li"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -759,7 +783,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -767,15 +791,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4832,
+						"buffer_size": 4886,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2133,
+								1892
 							]
 						],
 						"settings":
@@ -786,7 +810,64 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script/product.js",
+					"settings":
+					{
+						"buffer_size": 6302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6302,
+								6302
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3655.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style/product.css",
+					"settings":
+					{
+						"buffer_size": 10502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5662,
+								5662
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2668.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -839,6 +920,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ab",
+				"about.html"
+			],
+			[
+				"caseh",
+				"case.html"
+			],
+			[
+				"prcss",
+				"style/product.css"
+			],
+			[
+				"projs",
+				"script/product.js"
+			],
 			[
 				"in",
 				"index.html"
@@ -1334,22 +1431,6 @@
 			[
 				"tesph",
 				"1/test.php"
-			],
-			[
-				"te",
-				"1/test.html"
-			],
-			[
-				"tota",
-				"1/total.php"
-			],
-			[
-				"ca",
-				"captcha.php"
-			],
-			[
-				"mouht",
-				"ToddMark/mouseDirection.html"
 			]
 		],
 		"width": 0.0
@@ -1360,12 +1441,20 @@
 		"selected_items":
 		[
 			[
-				"py",
-				"/F/sandbox/python.sublime-project"
-			],
-			[
 				"t",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"l",
+				"/E/github/longData/longData.sublime-project"
+			],
+			[
+				"lo",
+				"/E/github/longData/longData.sublime-project"
+			],
+			[
+				"py",
+				"/F/sandbox/python.sublime-project"
 			],
 			[
 				"python",
