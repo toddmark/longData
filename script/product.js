@@ -64,12 +64,12 @@ function switchResume(){
 					unfoldBox.addClass('fold');
 					unfoldBox.stop().animate({height: 50}, playTime);
 					unfoldTex.html('查看');
-					$(arrOccuSpec[i]).stop().animate({top: -52}, playTime);
+					$(arrOccuSpec[i]).stop().animate({top: -50}, playTime);
 				}else{
 					unfoldBox.addClass('fold');
 					unfoldBox.stop().animate({height: 50}, playTime);
 					unfoldTex.html('查看');
-					unfoldBox.find('.occuSpec').stop().animate({top: -52}, playTime);
+					unfoldBox.find('.occuSpec').stop().animate({top: -50}, playTime);
 					$(arrBtn[i]).html('关闭');
 					$(arrFold[i]).stop().animate({height: heightBox},playTime, function (){
 						$(this).removeClass('fold');

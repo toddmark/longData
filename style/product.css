@@ -12,7 +12,7 @@ th, td { /* table elements 表格元素 */
 body,
 button, input, select, textarea { /* for ie */
     /*font: 12px/1 Tahoma, Helvetica, Arial, "宋体", sans-serif;*/
-    font: 12px/1 , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif; /* 用 ascii 字符表示，使得在任何编码下都无问题 */
+    font-family: "微软雅黑";  /* 用 ascii 字符表示，使得在任何编码下都无问题 */
 }
 
 h1 { font-size: 18px; /* 18px / 12px = 1.5 */ }
@@ -62,8 +62,8 @@ hr {
 html { overflow-y: scroll; }
 
 /*common css*/
-body{font-family: "Microsoft YaHei"; }
-a{color: #000; }
+body{font-family: "Microsoft YaHei"; text-align: left; /*resolved IE margin: 0 auto*/}
+a{color: #000; font-family: "Microsoft YaHei";}
 /*box model*/
 .w960{width:960px;}
 .m0a{margin:0 auto;}
@@ -72,7 +72,7 @@ a{color: #000; }
 .mt20{margin-top: 20px;}
 .mt30{margin-top: 30px;}
 .mt90{margin-top: 90px;}
-.mb4{margin-bottom: 4px;}
+.mb2{margin-bottom: 2px;}
 .mb20{margin-bottom: 20px;}
 .ml20{margin-left: 20px;}
 .ml60{margin-left: 60px;}
@@ -115,13 +115,14 @@ a{color: #000; }
 .sideBar .report:hover{background-position: -347px -444px;}
 
 /*index.html */
+.header{}
 .header .logo{width:156px; height: 55px; background: url("../img/index.png") no-repeat 0 0;}
 .header .btnLogin{width:149px; height: 34px; line-height: 34px; text-align: center; background: url("../img/index.png") no-repeat -160px -12px;}
-.header .nav li{float:left; padding-bottom: 2px; width: 84px; height: 30px; line-height: 30px; text-align: center;}
+.header .nav li{float:left; padding-bottom: 2px; width: 84px; height: 45px; line-height: 45px; text-align: center;}
 .header .nav li:hover{border-bottom: 2px solid #fea915; padding-bottom: 0px; cursor: pointer;}
 .header .nav li a{color: #858585; font-size: 16px;}
 .header .nav li a:hover{text-decoration: none;}
-.rightBtn{position: relative; top: 17px;}
+.rightBtn{position: relative; top: 2px;}
 .secondList{position:relative; left: 84px; width: 252px; z-index: 1;}
 .secondList ul{display: none;position: absolute;}
 .secondList .u1{left: 0;}
@@ -135,7 +136,7 @@ a{color: #000; }
 .footer{width: 100%; height: 190px; background:#333; color:#737373;}
 .footer .container{height:100%;}
 .footer .container .numberInfo{width: 340px; height: 100%; background:#454545; color: #aaaaaa; font-weight: bold;}
-.footer .container .numberInfo p{width: 136px; font-size: 20px; height: 74px; line-height: 37px; background:url('../img/index.png') no-repeat -312px -54px;}
+.footer .container .numberInfo p{width: 150px; font-size: 20px; height: 74px; line-height: 37px; background:url('../img/index.png') no-repeat -312px -54px;}
 .footer .container .numberInfo h1{font-size: 30px; text-align: center;}
 .footer .textPanel ul li{float:left;}
 .footer .textPanel a{color: #737373;}
@@ -202,11 +203,11 @@ a{color: #000; }
 
 .occupation{}
 .occupation .singleLine{margin-bottom: 30px; border-bottom: 1px solid #f2f2f2;}
-.occupation .singleLine{position:relative;color: #858585;}
+.occupation .singleLine{position:relative;top:0; color: #858585;}
 .occupation .singleLine .slideBtn{position: absolute; right: 0; color: #2ca7ed; width: 78px; height: 30px; line-height: 30px; text-align: center; 
     background: url('../img/index.png') no-repeat -444px 0; text-decoration: none; z-index: 1;}
 .occupation .singleLine .slideBtn:hover{background-position: -522px top; color: #fff; cursor: pointer;}
-.occupation .singleLine .occuSpec{position: relative;  top: -52px; }
+.occupation .singleLine .occuSpec{position: relative;  top: -50px; }
 
 .occuSpec .scan{height: 40px; line-height: 40px; font-weight: bold;}
 .occuSpec .scan .name{}

@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<title>龙默升科技</title>
 	<meta charset=utf-8>
@@ -7,7 +8,7 @@
 	<script type="text/javascript" src="script/product.js"></script>
 </head>
 <body>
-	<div class="m0a mt10 mb4 w960 clearFloat header">
+	<div class=" mt10 mb2 w960 clearFloat m0a header">
 		<div class="clearFloat fl login">
 			<div class="fl logo"><!--logo背景图--></div>
 			<div class="mt10 ml20 fl fs14  btnLogin">
@@ -35,8 +36,8 @@
 			    	<span class="fr ccc">|</span>
 			    </li>
 			</ul>
-			<div class="secondList">
-				<ul class="u1">
+			<div class="secondList"
+>				<ul class="u1">
 					<li>
 						<a href="javascript:void(0);">路由器一</a>
 					</li>
@@ -66,10 +67,10 @@
 						<a href="about.php#contact">联系我们</a>
 					</li>
 					<li>
-						<a href="about.php#hire">招聘</a>
+						<a href="about.php#hire">招&nbsp;&nbsp;聘</a>
 					</li>
 					<li>
-						<a href="about.php#report">报道</a>
+						<a href="about.php#report">报&nbsp;&nbsp;道</a>
 					</li>
 				</ul>
 			</div>
