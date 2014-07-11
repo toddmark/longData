@@ -180,18 +180,10 @@
 	"buffers":
 	[
 		{
-			"file": "foot.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 671,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "head.php",
-			"settings":
-			{
-				"buffer_size": 2237,
+				"buffer_size": 2226,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,24 +191,7 @@
 			"file": "style/product.css",
 			"settings":
 			{
-				"buffer_size": 10622,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "1. css sprit \n2. foot.php",
-			"settings":
-			{
-				"buffer_size": 25,
-				"line_ending": "Windows",
-				"name": "1. css sprit"
-			}
-		},
-		{
-			"file": "about.php",
-			"settings":
-			{
-				"buffer_size": 14007,
+				"buffer_size": 10613,
 				"line_ending": "Windows"
 			}
 		}
@@ -529,15 +504,17 @@
 	},
 	"file_history":
 	[
+		"/E/github/longData/about.php",
+		"/E/github/longData/foot.php",
+		"/E/github/longData/head.php",
+		"/E/github/longData/style/product.css",
 		"/E/github/longData/case.php",
 		"/E/github/longData/script/product.js",
-		"/E/github/longData/about.php",
 		"/E/github/longData/index.php",
 		"/E/github/longData/index.html",
 		"/E/github/longData/case.html",
 		"/E/github/longData/about.html",
 		"/D/tool/xampp/htdocs/index.php",
-		"/E/github/longData/style/product.css",
 		"/E/github/longData/script/popUp&playRoll.js",
 		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/E/OneDrive/ToddMark/css权重问题.html",
@@ -668,6 +645,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"115px",
+			"foot",
+			"60px",
+			"60p-x",
+			"place",
 			"ml60",
 			"f",
 			"fl",
@@ -790,12 +772,7 @@
 			"36",
 			"50",
 			"300",
-			"speed",
-			"value2",
-			"param2",
-			"value1",
-			"param1",
-			"returnIndex"
+			"speed"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -819,23 +796,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "foot.php",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 671,
+						"buffer_size": 2226,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								671,
-								671
+								1867,
+								1867
 							]
 						],
 						"settings":
@@ -846,54 +823,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 882.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "head.php",
-					"settings":
-					{
-						"buffer_size": 2237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								281,
-								281
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "style/product.css",
 					"settings":
 					{
-						"buffer_size": 10622,
+						"buffer_size": 10613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4548,
-								4548
+								7713,
+								7713
 							]
 						],
 						"settings":
@@ -904,64 +852,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2498.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 25,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"auto_name": "1. css sprit",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "about.php",
-					"settings":
-					{
-						"buffer_size": 14007,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								456,
-								456
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"is_xml": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3718.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1014,6 +905,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"css",
+				"style/product.css"
+			],
+			[
+				"inph",
+				"index.php"
+			],
 			[
 				"abphp",
 				"about.php"
@@ -1517,14 +1416,6 @@
 			[
 				"tp",
 				"1/test/test.php"
-			],
-			[
-				"red",
-				"1/test/readerTEST.php"
-			],
-			[
-				"confi",
-				"1/config.php"
 			]
 		],
 		"width": 0.0
