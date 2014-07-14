@@ -16,7 +16,7 @@ $(function (){
 });
 function playRoll(){
 	var arrImg = $('.rollBanner .wrap img');
-	var arrBtn = $('.rollBanner .btnGroup a');
+	var arrBtn = $('.rollBanner .btnGroup span');
 	$.tod.playRoll({wrapped: arrImg, btn: arrBtn, activeBtn: 'active'});
 }
 
@@ -28,7 +28,7 @@ function scrollSideBar(){
 		var top = $(window).scrollTop();
 		if(top > 400){
 			var posY = top - 400;
-			console.log(posY);
+			// console.log(posY);
 			objEle.stop().animate({
 				'top': posY
 			}, timePlay)

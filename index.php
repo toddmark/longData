@@ -3,7 +3,7 @@
 	<div class="mt90 indMain">
 		<div class="clearFloat layer">
 			<div class="fl">
-				<img title="123" src="img/ind-con1.png" alt="">
+				<img title="专业的商用路由" src="img/ind-con1.png" alt="专业的商用路由">
 			</div>
 			<div class="fr mt90 txtInfo">
 				<h3>专业的商用路由</h3>
@@ -19,7 +19,7 @@
 		</div>
 		<div class="clearFloat layer">
 			<div class="fr">
-				<img src="img/ind-con2.png" alt="">
+				<img src="img/ind-con2.png" title="智能数据中心" alt="智能数据中心">
 			</div>
 			<div class="fl mt90 txtInfo">
 				<h3>智能数据中心</h3>
@@ -35,7 +35,7 @@
 		</div>
 		<div class="clearFloat layer">
 			<div class="fl">
-				<img src="img/ind-con3.png" alt="">
+				<img src="img/ind-con3.png" title="本地娱乐中心" alt="本地娱乐中心">
 			</div>
 			<div class="fr mt90 txtInfo">
 				<h3>本地娱乐中心</h3>
@@ -51,7 +51,7 @@
 		</div>
 		<div class="clearFloat layer">
 			<div class="fr">
-				<img src="img/ind-con4.png" alt="">
+				<img src="img/ind-con4.png" alt="多场景解决方案" title="多场景解决方案">
 			</div>
 			<div class="fl mt90 txtInfo">
 				<h3>多场景解决方案</h3>
@@ -67,7 +67,7 @@
 		</div>
 		<div class="clearFloat layer">
 			<div class="fl">
-				<img src="img/ind-con5.png" alt="">
+				<img src="img/ind-con5.png" alt="基于WiFi的新商业生态系统" title="基于WiFi的新商业生态系统">
 			</div>
 			<div class="fr mt90 txtInfo">
 				<h3>基于WiFi的新商业生态系统</h3>

@@ -19,4 +19,6 @@
 		</div>
 	</div>
 </body>
+<script type="text/javascript" src="script/jQuery.js"></script>
+<script type="text/javascript" src="script/m-product.js"></script>
 </html>

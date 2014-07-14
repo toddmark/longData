@@ -3,9 +3,7 @@
 <head>
 	<title>龙默升科技</title>
 	<meta charset=utf-8>
-	<link rel="stylesheet" type="text/css" href="style/product.css">
-	<script type="text/javascript" src="script/jQuery.js"></script>
-	<script type="text/javascript" src="script/product.js"></script>
+	<link rel="stylesheet" type="text/css" href="style/m-product.css">
 </head>
 <body>
 	<div class=" mt10 mb2 w960 clearFloat m0a header">
@@ -81,13 +79,13 @@
 		<div class="w960 m0a container">
 			<div class="wrap">
 				<img src="img/ban1.jpg" alt="">
-				<img src="img/ban2.png" alt="">
-				<img src="img/ban3.png" alt="">
+				<img src="img/ban2.jpg" alt="">
+				<img src="img/ban3.jpg" alt="">
 			</div>
 			<div class="btnGroup">
-				<a class="active" href="javascript:void(0);">&nbsp;</a>
-				<a href="javascript:void(0);">&nbsp;</a>
-				<a href="javascript:void(0);">&nbsp;</a>
+				<span class="active" >&nbsp;</span>
+				<span >&nbsp;</span>
+				<span >&nbsp;</span>
 			</div>
 		</div>	
 	</div>

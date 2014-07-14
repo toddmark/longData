@@ -152,8 +152,8 @@ a{color: #000; font-family: "Microsoft YaHei";}
 .rollBanner .container{position:relative;}
 .rollBanner .container .wrap img{position: absolute;}
 .rollBanner .container .btnGroup{position: absolute; top:370px; left:470px; }
-.rollBanner .container .btnGroup a{float: left; display: block; margin-left: 20px; width: 10px; height: 10px; background:url('../img/index.png') no-repeat right -10px;}
-.rollBanner .container .btnGroup a.active, .rollBanner .container .btnGroup a:hover{background:url('../img/index.png') no-repeat right top; text-decoration: none;}
+.rollBanner .container .btnGroup span{float: left; display: block; margin-left: 20px; width: 10px; height: 10px; background:url('../img/index.png') no-repeat right -10px;}
+.rollBanner .container .btnGroup span.active, .rollBanner .container .btnGroup span:hover{background:url('../img/index.png') no-repeat right top;cursor: pointer;}
 
 .indMain .layer{margin: 20px auto 20px; width: 960px;}
 .indMain .layer .txtInfo{}
