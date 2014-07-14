@@ -180,10 +180,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "head.php",
 			"settings":
 			{
-				"buffer_size": 2226,
+				"buffer_size": 2551,
 				"line_ending": "Windows"
 			}
 		},
@@ -191,7 +191,31 @@
 			"file": "style/product.css",
 			"settings":
 			{
-				"buffer_size": 10613,
+				"buffer_size": 11091,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script/product.js",
+			"settings":
+			{
+				"buffer_size": 6355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "optimized-log.txt",
+			"settings":
+			{
+				"buffer_size": 125,
 				"line_ending": "Windows"
 			}
 		}
@@ -199,9 +223,17 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 380.0,
 		"selected_items":
 		[
+			[
+				"frl",
+				"File: Reveal"
+			],
+			[
+				"lf",
+				"File: Search Files"
+			],
 			[
 				"renam",
 				"File: Rename"
@@ -217,10 +249,6 @@
 			[
 				"dele",
 				"File: Delete"
-			],
-			[
-				"frl",
-				"File: Reveal"
 			],
 			[
 				"frrl",
@@ -487,7 +515,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 512.0
+		"width": 424.0
 	},
 	"console":
 	{
@@ -504,13 +532,16 @@
 	},
 	"file_history":
 	[
-		"/E/github/longData/about.php",
-		"/E/github/longData/foot.php",
-		"/E/github/longData/head.php",
-		"/E/github/longData/style/product.css",
-		"/E/github/longData/case.php",
-		"/E/github/longData/script/product.js",
+		"/E/github/longData/script/js.js",
 		"/E/github/longData/index.php",
+		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/github/longData/script/product.js",
+		"/E/github/longData/style/product.css",
+		"/E/github/longData/script/jQuery.js",
+		"/E/github/longData/head.php",
+		"/E/github/longData/foot.php",
+		"/E/github/longData/about.php",
+		"/E/github/longData/case.php",
 		"/E/github/longData/index.html",
 		"/E/github/longData/case.html",
 		"/E/github/longData/about.html",
@@ -645,6 +676,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"slideDown",
+			"roll",
+			"全国业务",
+			"body",
+			"mb45",
+			"37px",
+			"17",
+			"30px",
+			"52",
+			"body",
+			"head",
 			"115px",
 			"foot",
 			"60px",
@@ -761,18 +803,7 @@
 			"love",
 			"bottomPlace",
 			"bottomPanel",
-			"messBoard",
-			"\">\n",
-			"content",
-			"garment",
-			"$('header')",
-			"body",
-			"CreateTag",
-			"97",
-			"36",
-			"50",
-			"300",
-			"speed"
+			"messBoard"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -801,18 +832,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "head.php",
 					"settings":
 					{
-						"buffer_size": 2226,
+						"buffer_size": 2551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1867,
-								1867
+								817,
+								817
 							]
 						],
 						"settings":
@@ -823,7 +854,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 882.0,
+						"translation.y": 63.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -833,15 +864,15 @@
 					"file": "style/product.css",
 					"settings":
 					{
-						"buffer_size": 10613,
+						"buffer_size": 11091,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7713,
-								7713
+								5380,
+								5380
 							]
 						],
 						"settings":
@@ -852,7 +883,92 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3718.0,
+						"translation.y": 2834.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script/product.js",
+					"settings":
+					{
+						"buffer_size": 6355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6086,
+								6086
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5430.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "optimized-log.txt",
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -906,6 +1022,38 @@
 		"selected_items":
 		[
 			[
+				"inphp",
+				"index.php"
+			],
+			[
+				".js",
+				"script/product.js"
+			],
+			[
+				"p.css",
+				"style/product.css"
+			],
+			[
+				"pj",
+				"script/product.js"
+			],
+			[
+				"heaphp",
+				"head.php"
+			],
+			[
+				"jqer",
+				"script/jQuery.js"
+			],
+			[
+				"fohp",
+				"foot.php"
+			],
+			[
+				"p.js",
+				"script/product.js"
+			],
+			[
 				"css",
 				"style/product.css"
 			],
@@ -920,10 +1068,6 @@
 			[
 				"casphp",
 				"case.php"
-			],
-			[
-				"p.js",
-				"script/product.js"
 			],
 			[
 				"procss",
@@ -1082,10 +1226,6 @@
 				"1/css/signup.css"
 			],
 			[
-				"heaphp",
-				"1/page/head.php"
-			],
-			[
 				"headphp",
 				"1/page/head.php"
 			],
@@ -1176,10 +1316,6 @@
 			[
 				"heap",
 				"1/page/head.php"
-			],
-			[
-				"inphp",
-				"1/index.php"
 			],
 			[
 				"serhea",
@@ -1396,26 +1532,6 @@
 			[
 				"serh",
 				"1/serve/serve-head.php"
-			],
-			[
-				"123",
-				"1/css/123.html"
-			],
-			[
-				"fo",
-				"1/page/foot.php"
-			],
-			[
-				"class",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"cla",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"tp",
-				"1/test/test.php"
 			]
 		],
 		"width": 0.0
@@ -1425,6 +1541,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"tod",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
 			[
 				"t",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
@@ -1459,10 +1579,6 @@
 			],
 			[
 				"to",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
-			],
-			[
-				"tod",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[

@@ -3,7 +3,7 @@
 	<div class="mt90 indMain">
 		<div class="clearFloat layer">
 			<div class="fl">
-				<img src="img/ind-con1.png" alt="">
+				<img title="123" src="img/ind-con1.png" alt="">
 			</div>
 			<div class="fr mt90 txtInfo">
 				<h3>专业的商用路由</h3>

@@ -85,7 +85,9 @@
 				<img src="img/ban3.png" alt="">
 			</div>
 			<div class="btnGroup">
-				<img src="" alt="">
+				<a class="active" href="javascript:void(0);">&nbsp;</a>
+				<a href="javascript:void(0);">&nbsp;</a>
+				<a href="javascript:void(0);">&nbsp;</a>
 			</div>
 		</div>	
 	</div>

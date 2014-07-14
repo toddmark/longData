@@ -16,8 +16,8 @@ $(function (){
 });
 function playRoll(){
 	var arrImg = $('.rollBanner .wrap img');
-	var arrBtn = $('.rollBanner btnGroup img');
-	$.tod.playRoll({wrapped: arrImg, btn: arrBtn});
+	var arrBtn = $('.rollBanner .btnGroup a');
+	$.tod.playRoll({wrapped: arrImg, btn: arrBtn, activeBtn: 'active'});
 }
 
 
@@ -99,17 +99,17 @@ function navInteract(){
 		navList[i].index = i;
 		secList[i].index = i;
 		$(this).hover(function(e) {
-			$(secList[this.index]).stop().slideDown();
+			$(secList[this.index]).stop().slideDown('fast');
 		}, function(e) {
-			$(secList[this.index]).stop().slideUp();
+			$(secList[this.index]).stop().slideUp('fast');
 		});
 	});
 	// Second list show
 	secList.each(function (i){
 		$(this).hover(function (){
-			$(secList[this.index]).stop().slideDown();
+			$(secList[this.index]).stop().slideDown('fast');
 		}, function (){
-			$(secList[this.index]).stop().slideUp();
+			$(secList[this.index]).stop().slideUp('fast');
 		})
 	})
 }
@@ -261,7 +261,7 @@ jQuery.tod = {
 					return false;
 				}
 				index = i;
-				console.log(i);
+				// console.log(i);
 				wrap.fadeOut();
 				$(wrap[i]).fadeIn();
 			})
