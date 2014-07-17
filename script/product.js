@@ -98,11 +98,17 @@ function navInteract(){
 	navList.each(function (i){
 		navList[i].index = i;
 		secList[i].index = i;
-		$(this).hover(function(e) {
+		// $(this).hover(function(e) {
+		// 	$(secList[this.index]).stop().slideDown('fast');
+		// }, function(e) {
+		// 	$(secList[this.index]).stop().slideUp('fast');
+		// });
+		$(this).click(function (){
 			$(secList[this.index]).stop().slideDown('fast');
-		}, function(e) {
+		})
+		$(this).mouseout(function (){
 			$(secList[this.index]).stop().slideUp('fast');
-		});
+		})
 	});
 	// Second list show
 	secList.each(function (i){

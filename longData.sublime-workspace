@@ -180,42 +180,18 @@
 	"buffers":
 	[
 		{
+			"file": "foot.php",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "head.php",
 			"settings":
 			{
-				"buffer_size": 2551,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/product.css",
-			"settings":
-			{
-				"buffer_size": 11091,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "script/product.js",
-			"settings":
-			{
-				"buffer_size": 6355,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 2238,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "optimized-log.txt",
-			"settings":
-			{
-				"buffer_size": 125,
+				"buffer_size": 2630,
 				"line_ending": "Windows"
 			}
 		}
@@ -223,7 +199,7 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 311.0,
 		"selected_items":
 		[
 			[
@@ -231,15 +207,15 @@
 				"File: Reveal"
 			],
 			[
+				"rename",
+				"File: Rename"
+			],
+			[
 				"lf",
 				"File: Search Files"
 			],
 			[
 				"renam",
-				"File: Rename"
-			],
-			[
-				"rename",
 				"File: Rename"
 			],
 			[
@@ -515,7 +491,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 424.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -532,16 +508,20 @@
 	},
 	"file_history":
 	[
-		"/E/github/longData/script/js.js",
-		"/E/github/longData/index.php",
-		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/E/github/longData/script/product.js",
-		"/E/github/longData/style/product.css",
-		"/E/github/longData/script/jQuery.js",
 		"/E/github/longData/head.php",
-		"/E/github/longData/foot.php",
+		"/E/github/longData/style/product.css",
 		"/E/github/longData/about.php",
+		"/E/github/longData/style/m-product.css",
+		"/E/github/longData/script/m-product.js",
+		"/E/github/longData/foot.php",
+		"/E/github/longData/optimized-log.txt",
+		"/E/github/longData/script/product.js",
 		"/E/github/longData/case.php",
+		"/E/github/longData/script/m-=product.js",
+		"/E/github/longData/script/jQuery.js",
+		"/E/github/longData/index.php",
+		"/E/github/longData/script/js.js",
+		"/C/Users/ToddMark/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/E/github/longData/index.html",
 		"/E/github/longData/case.html",
 		"/E/github/longData/about.html",
@@ -655,8 +635,7 @@
 		"/F/development tool/wamp/www/funny100/1/serve/mysql.class.php",
 		"/F/development tool/wamp/www/funny100/1/mysql.class.php",
 		"/F/development tool/wamp/www/funny100/1/fun100.sublime-workspace",
-		"/F/development tool/wamp/www/funny100/1/test.html",
-		"/F/development tool/wamp/www/funny100/1/fun100.sublime-project"
+		"/F/development tool/wamp/www/funny100/1/test.html"
 	],
 	"find":
 	{
@@ -676,6 +655,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bold",
+			"hover",
+			".png",
+			"console",
+			"a",
+			"roll",
+			"href=\"javascript:void(0);\"",
+			"a>",
+			"a",
+			"png",
 			"slideDown",
 			"roll",
 			"全国业务",
@@ -793,17 +782,7 @@
 			"FF9933",
 			"returnIndex",
 			"随机播放",
-			"ZBH40",
-			"btnRandom",
-			"bottomBG",
-			"bottomPlace",
-			"btn",
-			"shareBtn",
-			"btn",
-			"love",
-			"bottomPlace",
-			"bottomPanel",
-			"messBoard"
+			"ZBH40"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -832,104 +811,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "head.php",
+					"file": "foot.php",
 					"settings":
 					{
-						"buffer_size": 2551,
+						"buffer_size": 787,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								817,
-								817
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"is_xml": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 63.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style/product.css",
-					"settings":
-					{
-						"buffer_size": 11091,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5380,
-								5380
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2834.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "script/product.js",
-					"settings":
-					{
-						"buffer_size": 6355,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6086,
-								6086
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5430.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 2238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								655,
-								655
+								623,
+								623
 							]
 						],
 						"settings":
@@ -946,26 +839,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "optimized-log.txt",
+					"buffer": 1,
+					"file": "head.php",
 					"settings":
 					{
-						"buffer_size": 125,
+						"buffer_size": 2630,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								495,
+								495
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
 							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1022,6 +916,46 @@
 		"selected_items":
 		[
 			[
+				"heaphp",
+				"head.php"
+			],
+			[
+				"f",
+				"foot.php"
+			],
+			[
+				"hea",
+				"head.php"
+			],
+			[
+				"m.css",
+				"style/m-product.css"
+			],
+			[
+				"mpj",
+				"script/m-product.js"
+			],
+			[
+				"abouph",
+				"about.php"
+			],
+			[
+				"casphp",
+				"case.php"
+			],
+			[
+				"fooph",
+				"foot.php"
+			],
+			[
+				"head.php",
+				"head.php"
+			],
+			[
+				"inph",
+				"index.php"
+			],
+			[
 				"inphp",
 				"index.php"
 			],
@@ -1036,10 +970,6 @@
 			[
 				"pj",
 				"script/product.js"
-			],
-			[
-				"heaphp",
-				"head.php"
 			],
 			[
 				"jqer",
@@ -1058,16 +988,8 @@
 				"style/product.css"
 			],
 			[
-				"inph",
-				"index.php"
-			],
-			[
 				"abphp",
 				"about.php"
-			],
-			[
-				"casphp",
-				"case.php"
 			],
 			[
 				"procss",
@@ -1486,10 +1408,6 @@
 				"1/test/test.php"
 			],
 			[
-				"hea",
-				"1/page/head.php"
-			],
-			[
 				"servehead",
 				"1/serve/serve-head.php"
 			],
@@ -1508,30 +1426,6 @@
 			[
 				"h",
 				"1/page/head.php"
-			],
-			[
-				"opc",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"ser",
-				"1/serve/opeDB.class.php"
-			],
-			[
-				"inp",
-				"1/index.php"
-			],
-			[
-				"go",
-				"1/css/global.css"
-			],
-			[
-				"indp",
-				"1/index.php"
-			],
-			[
-				"serh",
-				"1/serve/serve-head.php"
 			]
 		],
 		"width": 0.0
@@ -1541,6 +1435,14 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"tdo",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"lon",
+				"/E/github/longData/longData.sublime-project"
+			],
 			[
 				"tod",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"

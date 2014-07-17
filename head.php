@@ -2,8 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<title>龙默升科技</title>
-	<meta charset=utf-8>
-	<link rel="stylesheet" type="text/css" href="style/m-product.css">
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="style/m-product.css"/>
+	<meta name="keywords" content="商用路由 商用wifi 小鹿WiFi 小鹿路由 龙默升科技 龙默升"/>
+	<meta name="description" content="真正为您的场景与业务量身打造的商用WiFi。 不仅仅是WiFi服务，更是新商业入口。 不论是路由器还是软件服务，都从未曾有人为您设计得如此贴合需要。"/>
+	<meta name="baidu-site-verification" content="nsyGpPBoiS" />
 </head>
 <body>
 	<div class=" mt10 mb2 w960 clearFloat m0a header">
@@ -18,24 +21,24 @@
 		<div class="mt10 clearFloat fr rightBtn">
 			<ul class="clearFloat nav">
 				<li>
-					<a href="index.php">首页</a>
+					<a href="index.php">首&nbsp;页</a>
 			    	<span class="fr ccc">|</span>
 				</li>
 			    <li>
-			    	<a href="index.php">产品</a>
+			    	<a href="index.php">产&nbsp;品</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>
-			    	<a href="case.php">案例</a>
+			    	<a href="case.php">案&nbsp;例</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>
-			    	<a href="about.php">关于</a>
+			    	<a href="about.php">关&nbsp;于</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			</ul>
-			<div class="secondList"
->				<ul class="u1">
+			<!-- <div class="secondList">				
+				<ul class="u1">
 					<li>
 						<a href="javascript:void(0);">路由器一</a>
 					</li>
@@ -71,7 +74,7 @@
 						<a href="about.php#report">报&nbsp;&nbsp;道</a>
 					</li>
 				</ul>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<!-- rollBanner be used to contain the roll play model -->

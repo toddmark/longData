@@ -19,7 +19,7 @@
 				</ul>
 			</div>
 			<div class="fl ml200 m0a container">
-				<img src="img/case1.png" alt="">
+				<img src="img/case1.jpg" alt="">
 			</div>
 		</div>
 		<div class="w960 m0a cooperationPeer">
