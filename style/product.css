@@ -181,7 +181,7 @@ a{color: #000; font-family: "Microsoft YaHei";}
 .cooperationPeer .title span{display:block; position: relative; top: 40px; width: 200px; height: 40px; line-height: 40px; background:#fff;}
 .cooperationPeer hr{position: relative;top: 62px; border-top: 1px solid #ccc;}
 .bannerGroup ul{width: 840px; margin: 0 auto;}
-.bannerGroup li{float: left;}
+.bannerGroup li{float: left;margin-bottom: 20px; }
 
 /*about.html*/
 .aboutMain .main{width: 730px;}

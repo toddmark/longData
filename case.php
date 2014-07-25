@@ -24,7 +24,7 @@
 		</div>
 		<div class="w960 m0a cooperationPeer">
 			<hr>
-			<h1 class="title"><span class="m0a">合作伙伴</span></h1>
+			<h1 class="title mb20"><span class="m0a">合作伙伴</span></h1>
 			<div class="bannerGroup">
 				<ul class="clearFloat">
 					<li>

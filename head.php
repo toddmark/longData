@@ -3,7 +3,7 @@
 <head>
 	<title>龙默升科技</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-	<link rel="stylesheet" type="text/css" href="style/m-product.css"/>
+	<link rel="stylesheet" type="text/css" href="style/product.css"/>
 	<meta name="keywords" content="商用路由 商用wifi 小鹿WiFi 小鹿路由 龙默升科技 龙默升"/>
 	<meta name="description" content="真正为您的场景与业务量身打造的商用WiFi。 不仅仅是WiFi服务，更是新商业入口。 不论是路由器还是软件服务，都从未曾有人为您设计得如此贴合需要。"/>
 	<meta name="baidu-site-verification" content="nsyGpPBoiS" />

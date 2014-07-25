@@ -56,29 +56,29 @@
 									<span class="location">工作地点</span>
 								</div>
 								<div class="scanName">
-									<span class="name">UI设计师</span>
+									<span class="name">市场主管</span>
 									<span class="type">全职</span>
 									<span class="location">上海</span>
 								</div>
 								<div class="other">
 									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
+									<span class="education"><b>学历要求：</b>本科</span>
+									<span class="pay"><b>月薪范围：</b>薪资5-10K</span>
 								</div>
 								<div class="txtGroup">
 									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
+									<p>1、协助实施公司项目、产品的营销推广工作；<br>2、协助完成公司宣传资料以及相关销售工具的策划、制作；<br> 3、协助完成公司及产品网站的策划、内容更新与维护；<br> 4、维护外部媒体及业内同行的合作关系，撰写新闻稿；<br>5、收集、汇总、分析市场上竞争对手的各类活动开展情况。<br>6、协助举办线下活动，包括展会、客户答谢会、行业研讨会等；统计分析线下活动反馈与效果 <br>7、协助市场团队完成其他市场团队的相关工作</p>
 								</div>
 								<div class="txtGroup">
 									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
+									<p> 1. 教育背景——本科及以上学历。 （经管类专业优先） <br>2. 工作经验——对市场有很好的敏感度，1年以上<br> 3. 能力要求——对市场营销工作有深刻认知；熟练操作办公软件，熟练使用PPT。 <br>4. 态度——工作积极热情，责任心强；具有较强的沟通、协调能力和公关能力，良好的团队合作精神；积极主动、性格开朗、讲求效率、乐于接受挑战 </p>
 								</div>
 								<div class="postResume">
 									<a class="m0a" href="javascript:void(0);">投递简历</a>
 								</div>
 							</div>
 						</li>
-						<li class="singleLine fold">
+						<li class="singleLine fold" style="border-bottom:none;">
 							<a class="slideBtn" href="javascript:void(0);">查看</a>
 							<div class="occuSpec">
 								<div class="scan">
@@ -87,177 +87,22 @@
 									<span class="location">工作地点</span>
 								</div>
 								<div class="scanName">
-									<span class="name">UI设计师</span>
+									<span class="name">产品经理</span>
 									<span class="type">全职</span>
 									<span class="location">上海</span>
 								</div>
 								<div class="other">
 									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
+									<span class="education"><b>学历要求：</b>本科学历</span>
+									<span class="pay"><b>月薪范围：</b>薪资8-15K </span>
 								</div>
 								<div class="txtGroup">
 									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
+									<p>1. 明确定义产品需求，编写主要使用场景的产品用例及产品文档。<br>2. 制作产品原型，把握产品细节，确保产品设计的高可用性。<br> 3. 持续进行用户访谈与数据分析等工作，推进产品的快速迭代。 <br>4. 与产品运营共同协作，改善用户的生命周期指标。 <br> 5. 与技术部门协作，把握控制产品开发进度。</p>
 								</div>
 								<div class="txtGroup">
 									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
-								</div>
-								<div class="postResume">
-									<a class="m0a" href="javascript:void(0);">投递简历</a>
-								</div>
-							</div>
-						</li>
-						<li class="singleLine fold">
-							<a class="slideBtn" href="javascript:void(0);">查看</a>
-							<div class="occuSpec">
-								<div class="scan">
-									<span class="name">职位名称</span>
-									<span class="type">职位类型</span>
-									<span class="location">工作地点</span>
-								</div>
-								<div class="scanName">
-									<span class="name">UI设计师</span>
-									<span class="type">全职</span>
-									<span class="location">上海</span>
-								</div>
-								<div class="other">
-									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
-								</div>
-								<div class="postResume">
-									<a class="m0a" href="javascript:void(0);">投递简历</a>
-								</div>
-							</div>
-						</li>
-						<li class="singleLine fold">
-							<a class="slideBtn" href="javascript:void(0);">查看</a>
-							<div class="occuSpec">
-								<div class="scan">
-									<span class="name">职位名称</span>
-									<span class="type">职位类型</span>
-									<span class="location">工作地点</span>
-								</div>
-								<div class="scanName">
-									<span class="name">UI设计师</span>
-									<span class="type">全职</span>
-									<span class="location">上海</span>
-								</div>
-								<div class="other">
-									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
-								</div>
-								<div class="postResume">
-									<a class="m0a" href="javascript:void(0);">投递简历</a>
-								</div>
-							</div>
-						</li>
-						<li class="singleLine fold">
-							<a class="slideBtn" href="javascript:void(0);">查看</a>
-							<div class="occuSpec">
-								<div class="scan">
-									<span class="name">职位名称</span>
-									<span class="type">职位类型</span>
-									<span class="location">工作地点</span>
-								</div>
-								<div class="scanName">
-									<span class="name">UI设计师</span>
-									<span class="type">全职</span>
-									<span class="location">上海</span>
-								</div>
-								<div class="other">
-									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
-								</div>
-								<div class="postResume">
-									<a class="m0a" href="javascript:void(0);">投递简历</a>
-								</div>
-							</div>
-						</li>
-						<li class="singleLine fold">
-							<a class="slideBtn" href="javascript:void(0);">查看</a>
-							<div class="occuSpec">
-								<div class="scan">
-									<span class="name">职位名称</span>
-									<span class="type">职位类型</span>
-									<span class="location">工作地点</span>
-								</div>
-								<div class="scanName">
-									<span class="name">UI设计师</span>
-									<span class="type">全职</span>
-									<span class="location">上海</span>
-								</div>
-								<div class="other">
-									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
-								</div>
-								<div class="postResume">
-									<a class="m0a" href="javascript:void(0);">投递简历</a>
-								</div>
-							</div>
-						</li>
-						<li class="singleLine fold">
-							<a class="slideBtn" href="javascript:void(0);">查看</a>
-							<div class="occuSpec">
-								<div class="scan">
-									<span class="name">职位名称</span>
-									<span class="type">职位类型</span>
-									<span class="location">工作地点</span>
-								</div>
-								<div class="scanName">
-									<span class="name">UI设计师</span>
-									<span class="type">全职</span>
-									<span class="location">上海</span>
-								</div>
-								<div class="other">
-									<span class="amount"> <b>招聘人数：</b>2</span>
-									<span class="education"><b>学历要求：</b>大专以上</span>
-									<span class="pay"><b>月薪范围：</b>面议</span>
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位描述:</div>
-									<p>1、负责网站的前端页面和移动终端产品的视觉、UI设计；<br>2、负责公司宣传品设计、平面设计；<br> 3、不断改进产品的性能，重度关注用户体验；<br> 4、协助完成项目规划和产品交流工作；<br> 5、配合开发人员，及时对自己的设计进行修改、调整。</p> 
-								</div>
-								<div class="txtGroup">
-									<div class="tit">职位要求:</div>
-									<p>1、大学专科以上学历，2年以上工作经验，其中至少1年以上互联网或软件产品设计经验；<br>2、具有扎实的美术功底，具备优秀的审美和创意能力，思维活跃，能把设计风格和产品特色有效结合；<br> 3、精通相关设计软件使用，如Photoshop、Dreamweaver、Flash、Illustrator、CorelDRAW等；<br> 4、有良好的团队精神，能与开发人员良好的沟通，责任心强，学习能力强；<br> 5、有大型网站设计经验者优先。</p> 
+									<p>1. 两年以上移动端产品经理工作经验，并可提供实际可用的产品案例，有应用商店或O2O类产品经验者优先。 <br>2. 善于利用用户访谈、场景分析、用户画像、A/B Test及其他数据分析专业手段分析用户需求。 <br> 3. 能够撰写高质量的产品需求与用例文档，精通产品原型工具的使用。 <br>4. 具有良好的沟通与协调能力，能够有效地把控产品进度，熟悉产品运营。 <br> 5. 有极强的学习能力和学习意愿。 <br>6. 对互联网产品有独立的见解，具体优秀的定性和定量分析能力，以及严谨的逻辑思维。 <br>7. 对新产品有好奇心，有广阔的视野，具备良好的产品创新意识。 </p>
 								</div>
 								<div class="postResume">
 									<a class="m0a" href="javascript:void(0);">投递简历</a>
@@ -271,54 +116,6 @@
 				</div>
 				<div class="newPanel clearFloat">
 					<ul>
-						<li class="singleLine clearFloat">
-							<img class="fl" src="img/about1.png" alt="">
-							<div class="fl content">
-								<h1 class="mb20 clearFloat">
-									<span class="fl mt4">
-										智能硬件创业遇上“好时代”
-									</span>
-									<span class="fr rightText">2014-7-3 <br>来源：大申网</span>
-								</h1>
-								<h2>2013年，一些新型好玩的智能设备出现了在我们的视线中，比如说谷歌眼镜、智能手表等，不少前卫人 士已经体验和享用。那么，有没有人好奇这些创意的想法是如何转化为产品？上周六，由创业投资平台 B座12楼和众筹平台点名时...</h2>
-							</div>
-						</li>
-						<li class="singleLine clearFloat">
-							<img class="fl" src="img/about1.png" alt="">
-							<div class="fl content">
-								<h1 class="mb20 clearFloat">
-									<span class="fl mt4">
-										智能硬件创业遇上“好时代”
-									</span>
-									<span class="fr rightText">2014-7-3 <br>来源：大申网</span>
-								</h1>
-								<h2>2013年，一些新型好玩的智能设备出现了在我们的视线中，比如说谷歌眼镜、智能手表等，不少前卫人 士已经体验和享用。那么，有没有人好奇这些创意的想法是如何转化为产品？上周六，由创业投资平台 B座12楼和众筹平台点名时...</h2>
-							</div>
-						</li>
-						<li class="singleLine clearFloat">
-							<img class="fl" src="img/about1.png" alt="">
-							<div class="fl content">
-								<h1 class="mb20 clearFloat">
-									<span class="fl mt4">
-										智能硬件创业遇上“好时代”
-									</span>
-									<span class="fr rightText">2014-7-3 <br>来源：大申网</span>
-								</h1>
-								<h2>2013年，一些新型好玩的智能设备出现了在我们的视线中，比如说谷歌眼镜、智能手表等，不少前卫人 士已经体验和享用。那么，有没有人好奇这些创意的想法是如何转化为产品？上周六，由创业投资平台 B座12楼和众筹平台点名时...</h2>
-							</div>
-						</li>
-						<li class="singleLine clearFloat">
-							<img class="fl" src="img/about1.png" alt="">
-							<div class="fl content">
-								<h1 class="mb20 clearFloat">
-									<span class="fl mt4">
-										智能硬件创业遇上“好时代”
-									</span>
-									<span class="fr rightText">2014-7-3 <br>来源：大申网</span>
-								</h1>
-								<h2>2013年，一些新型好玩的智能设备出现了在我们的视线中，比如说谷歌眼镜、智能手表等，不少前卫人 士已经体验和享用。那么，有没有人好奇这些创意的想法是如何转化为产品？上周六，由创业投资平台 B座12楼和众筹平台点名时...</h2>
-							</div>
-						</li>
 						<li class="singleLine clearFloat">
 							<img class="fl" src="img/about1.png" alt="">
 							<div class="fl content">

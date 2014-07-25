@@ -191,7 +191,7 @@
 			"file": "head.php",
 			"settings":
 			{
-				"buffer_size": 2630,
+				"buffer_size": 2692,
 				"line_ending": "Windows"
 			}
 		}
@@ -199,7 +199,7 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 35.0,
 		"selected_items":
 		[
 			[
@@ -821,8 +821,8 @@
 						"selection":
 						[
 							[
-								623,
-								623
+								519,
+								519
 							]
 						],
 						"settings":
@@ -843,15 +843,15 @@
 					"file": "head.php",
 					"settings":
 					{
-						"buffer_size": 2630,
+						"buffer_size": 2692,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								495,
-								495
+								1025,
+								1025
 							]
 						],
 						"settings":
@@ -862,7 +862,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 63.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -916,16 +916,20 @@
 		"selected_items":
 		[
 			[
+				"hea",
+				"head.php"
+			],
+			[
+				"footphp",
+				"foot.php"
+			],
+			[
 				"heaphp",
 				"head.php"
 			],
 			[
 				"f",
 				"foot.php"
-			],
-			[
-				"hea",
-				"head.php"
 			],
 			[
 				"m.css",
@@ -1422,10 +1426,6 @@
 			[
 				"incs",
 				"1/css/index.css"
-			],
-			[
-				"h",
-				"1/page/head.php"
 			]
 		],
 		"width": 0.0
@@ -1436,16 +1436,20 @@
 		"selected_items":
 		[
 			[
+				"tod",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"ta",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
 				"tdo",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
 				"lon",
 				"/E/github/longData/longData.sublime-project"
-			],
-			[
-				"tod",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
 				"t",
