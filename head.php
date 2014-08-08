@@ -24,6 +24,10 @@
 					<a href="index.php">首&nbsp;页</a>
 			    	<span class="fr ccc">|</span>
 				</li>
+				<li>
+					<a href="http://shop112304989.taobao.com/index.htm">购&nbsp;买</a>
+			    	<span class="fr ccc">|</span>
+				</li>
 			    <li>
 			    	<a href="index.php">产&nbsp;品</a>
 			    	<span class="fr ccc">|</span>
@@ -80,14 +84,18 @@
 	<!-- rollBanner be used to contain the roll play model -->
 	<div class="rollBanner">
 		<div class="w960 m0a container">
+			<div class="hoverText">
+				<h1>小鹿wifi</h1>
+				<h2>国内首款商用智能路由器</h2>
+				<h3>999元</h3>	
+				<button onclick="window.location.href='http://shop112304989.taobao.com/index.htm'"></button>
+			</div>	
 			<div class="wrap">
 				<img src="img/ban1.jpg" alt="">
 				<img src="img/ban2.jpg" alt="">
-				<img src="img/ban3.jpg" alt="">
 			</div>
 			<div class="btnGroup">
 				<span class="active" >&nbsp;</span>
-				<span >&nbsp;</span>
 				<span >&nbsp;</span>
 			</div>
 		</div>	

@@ -180,10 +180,18 @@
 	"buffers":
 	[
 		{
-			"file": "foot.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 787,
+				"buffer_size": 2351,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 5636,
 				"line_ending": "Windows"
 			}
 		},
@@ -191,7 +199,23 @@
 			"file": "head.php",
 			"settings":
 			{
-				"buffer_size": 2692,
+				"buffer_size": 2817,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "case.php",
+			"settings":
+			{
+				"buffer_size": 1425,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script/product.js",
+			"settings":
+			{
+				"buffer_size": 6549,
 				"line_ending": "Windows"
 			}
 		}
@@ -199,12 +223,24 @@
 	"build_system": "Packages/User/javascript.sublime-build",
 	"command_palette":
 	{
-		"height": 35.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"FRL",
+				"File: Reveal"
+			],
+			[
 				"frl",
 				"File: Reveal"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
 			],
 			[
 				"rename",
@@ -259,10 +295,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
 				"remove",
 				"BracketHighlighter: Remove Brackets"
 			],
@@ -273,10 +305,6 @@
 			[
 				"brow",
 				"Preferences: Browse Packages"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"del",
@@ -508,6 +536,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/LiveReload/README.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/git/longData/foot.php",
+		"/E/git/longData/head.php",
 		"/E/github/longData/head.php",
 		"/E/github/longData/style/product.css",
 		"/E/github/longData/about.php",
@@ -533,7 +566,6 @@
 		"/E/OneDrive/ToddMark/无意义，测试远程同步",
 		"/E/OneDrive/ToddMark/test",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/E/OneDrive/ToddMark/test.html",
 		"/C/Users/Administrator/.ssh/id_rsa",
 		"/E/OneDrive/ToddMark/tips.txt",
@@ -557,7 +589,6 @@
 		"/E/OneDrive/ToddMark/divSwing.html",
 		"/E/OneDrive/ToddMark/tset.html",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/E/OneDrive/ToddMark/class.py",
 		"/E/OneDrive/ToddMark/sort.py",
 		"/E/OneDrive/ToddMark/IO.py",
@@ -632,10 +663,7 @@
 		"/F/development tool/wamp/www/funny100/1/serve/test.php",
 		"/F/development tool/wamp/www/funny100/1/test.php",
 		"/F/development tool/wamp/www/funny100/1/readerTEST.php",
-		"/F/development tool/wamp/www/funny100/1/serve/mysql.class.php",
-		"/F/development tool/wamp/www/funny100/1/mysql.class.php",
-		"/F/development tool/wamp/www/funny100/1/fun100.sublime-workspace",
-		"/F/development tool/wamp/www/funny100/1/test.html"
+		"/F/development tool/wamp/www/funny100/1/serve/mysql.class.php"
 	],
 	"find":
 	{
@@ -655,6 +683,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"MONACO",
+			"Flatland",
 			"bold",
 			"hover",
 			".png",
@@ -780,9 +810,7 @@
 			",",
 			"0",
 			"FF9933",
-			"returnIndex",
-			"随机播放",
-			"ZBH40"
+			"returnIndex"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -806,29 +834,235 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "foot.php",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 787,
+						"buffer_size": 2351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								519,
-								519
+								1509,
+								1509
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
 							"is_xml": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 693.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.php",
+					"settings":
+					{
+						"buffer_size": 5636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3685,
+								3685
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1449.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "head.php",
+					"settings":
+					{
+						"buffer_size": 2817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"is_xml": false,
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -839,30 +1073,156 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "head.php",
+					"buffer": 3,
+					"file": "case.php",
 					"settings":
 					{
-						"buffer_size": 2692,
+						"buffer_size": 1425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1025,
-								1025
+								359,
+								359
 							]
 						],
 						"settings":
 						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/Flatland Dark.tmTheme",
 							"is_xml": false,
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 63.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "script/product.js",
+					"settings":
+					{
+						"buffer_size": 6549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -915,6 +1275,30 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"js",
+				"script/product.js"
+			],
+			[
+				"casephp",
+				"case.php"
+			],
+			[
+				"about",
+				"about.php"
+			],
+			[
+				"headph",
+				"head.php"
+			],
+			[
+				"aotphp",
+				"about.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
 			[
 				"hea",
 				"head.php"
@@ -1304,10 +1688,6 @@
 				"1/js/signup.js"
 			],
 			[
-				"inde",
-				"1/index.php"
-			],
-			[
 				"commjs",
 				"1/js/common.js"
 			],
@@ -1384,10 +1764,6 @@
 				"1/serve/code_gg.php"
 			],
 			[
-				"js",
-				"1/js/jQuery.js"
-			],
-			[
 				"ht",
 				"1/test/test.html"
 			],
@@ -1410,22 +1786,6 @@
 			[
 				"tesp",
 				"1/test/test.php"
-			],
-			[
-				"servehead",
-				"1/serve/serve-head.php"
-			],
-			[
-				"servein",
-				"1/serve/serve-index.php"
-			],
-			[
-				"glob",
-				"1/css/global.css"
-			],
-			[
-				"incs",
-				"1/css/index.css"
 			]
 		],
 		"width": 0.0
@@ -1435,6 +1795,22 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"t",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"lo",
+				"/E/github/longData/longData.sublime-project"
+			],
+			[
+				"todd",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"to",
+				"/E/git/longData/longData.sublime-project"
+			],
 			[
 				"tod",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
@@ -1452,15 +1828,7 @@
 				"/E/github/longData/longData.sublime-project"
 			],
 			[
-				"t",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
-			],
-			[
 				"l",
-				"/E/github/longData/longData.sublime-project"
-			],
-			[
-				"lo",
 				"/E/github/longData/longData.sublime-project"
 			],
 			[
@@ -1482,10 +1850,6 @@
 			[
 				"fu",
 				"/F/development tool/wamp/www/funny100/1/fun100.sublime-project"
-			],
-			[
-				"to",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
 				"fun100",
@@ -1542,10 +1906,6 @@
 			[
 				"eshop",
 				"/F/工作资料/eShopping/eShopping.sublime-project"
-			],
-			[
-				"todd",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
 				"demo1",
