@@ -29,7 +29,7 @@
 			    	<span class="fr ccc">|</span>
 				</li>
 			    <li>
-			    	<a href="index.php">产&nbsp;品</a>
+			    	<a href="product.php">产&nbsp;品</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>

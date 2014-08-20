@@ -62,7 +62,7 @@ hr {
 html { overflow-y: scroll; }
 
 /*common css*/
-body{font-family: "Microsoft YaHei"; text-align: left; /*resolved IE margin: 0 auto*/}
+body{font-family: "Microsoft YaHei"; overflow: hidden; text-align: left; /*resolved IE margin: 0 auto*/}
 a{color: #000; font-family: "Microsoft YaHei";}
 /*box model*/
 .w960{width:960px;}
@@ -148,7 +148,7 @@ a{color: #000; font-family: "Microsoft YaHei";}
 .footNav li a:hover{color:#fff;}
 .footer .firmInfo{text-align: center; line-height: 32px;}
 
-.rollBanner{width: 100%; height: 396px; background:#efefef; border-top: 1px solid #ccc;}
+.rollBanner{width: 100%; height: 396px; background:#efefef; border-top: 1px solid #ccc; overflow: hidden;}
 .rollBanner .container{position:relative;}
 .rollBanner .container .hoverText{position: absolute; left:150px; top: 80px; z-index: 9; width: 180px; text-align: right; line-height: 40px;}
 .hoverText h1{font-size: 34px; color:#333333;}
@@ -163,6 +163,7 @@ a{color: #000; font-family: "Microsoft YaHei";}
 
 .indMain .layer{margin: 20px auto 20px; width: 960px;}
 .indMain .layer .txtInfo{}
+.indMain .layer .txtInfo h3{font-size: 30px;}
 
 .indMain .layer .txtInfo p{margin-bottom: 20px; font-size: 14px; color: #858585; line-height: 34px; }
 .indMain .layer .txtInfo a{color: #e3860b;}
@@ -256,3 +257,18 @@ a{color: #000; font-family: "Microsoft YaHei";}
 .newPanel .pageTurn li:hover{background: #84c801; cursor: pointer;}
 .newPanel .pageTurn li:hover a{color: #fff;}
 .newPanel .pageTurn a{color: #84c801;}
+
+/*
+product.php 
+*/
+.firstLine{margin-top: 72px;}
+.firstLine h1{font-size: 44px; color: #333;}
+.firstLine p{font-size: 22px; text-align: right;}
+.firstLine img{}
+.firstLine button{width: 155px; height: 45px; border:none; background:url(../img/product/btn_buy_01.png);}
+.firstLine button:hover{background:url(../img/product/btn_buy_02.png); cursor: pointer;}
+.contentLine{height: 400px;}
+.contentLine img{padding-top: 40px;}
+.contentLine div{padding-top: 160px;}
+.contentLine h1{font-size: 30px; font-weight: normal; color: #333;}
+.contentLine p{padding-top: 40px; color: #858585; font-size: 14px; line-height: 34px;}
