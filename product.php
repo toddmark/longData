@@ -54,8 +54,17 @@
 		</p>
 	</div>
 </div>
+<div class="w960 m0a bottomPurchase">
+	<h1>小鹿Wi-Fi商用路由器，不只是上网</h1>	
+	<p class="m0a">
+		我们为您量身打造基于路由器的专业线下营销解决方案
+		让您的商品在大数据时代完成智能、多渠道、多方案
+		的销售体验
+	</p>
+	<a class="m0a bottomBtn" href="http://shop112304989.taobao.com/index.htm"></a>
+</div>
 <?php require('foot.php') ?>
 <script type="text/javascript">
-//hide rollBanner
+	//hide rollBanner
 		$('.rollBanner').height(0);
 </script>

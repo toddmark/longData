@@ -21,4 +21,9 @@
 </body>
 <script type="text/javascript" src="script/jQuery.js"></script>
 <script type="text/javascript" src="script/m-product.js"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3b9ad7f00cbaadda748a0d127c47961c' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
 </html>

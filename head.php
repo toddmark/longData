@@ -25,11 +25,11 @@
 			    	<span class="fr ccc">|</span>
 				</li>
 				<li>
-					<a href="http://shop112304989.taobao.com/index.htm">购&nbsp;买</a>
+					<a href="product.php">产&nbsp;品</a>
 			    	<span class="fr ccc">|</span>
 				</li>
 			    <li>
-			    	<a href="product.php">产&nbsp;品</a>
+			    	<a href="http://shop112304989.taobao.com/index.htm">购&nbsp;买</a>
 			    	<span class="fr ccc">|</span>
 			    </li>
 			    <li>

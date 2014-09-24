@@ -180,10 +180,18 @@
 	"buffers":
 	[
 		{
+			"file": "head.php",
+			"settings":
+			{
+				"buffer_size": 2957,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "product.php",
 			"settings":
 			{
-				"buffer_size": 543,
+				"buffer_size": 1725,
 				"line_ending": "Windows"
 			}
 		},
@@ -191,23 +199,15 @@
 			"file": "style/product.css",
 			"settings":
 			{
-				"buffer_size": 12083,
+				"buffer_size": 12619,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.php",
+			"file": "foot.php",
 			"settings":
 			{
-				"buffer_size": 2351,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "head.php",
-			"settings":
-			{
-				"buffer_size": 2957,
+				"buffer_size": 1079,
 				"line_ending": "Windows"
 			}
 		}
@@ -215,11 +215,11 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 196.0,
+		"height": 380.0,
 		"selected_items":
 		[
 			[
-				"rempac",
+				"REPACK",
 				"Package Control: Remove Package"
 			],
 			[
@@ -227,8 +227,24 @@
 				"BracketHighlighter: Remove Brackets"
 			],
 			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
 				"linst",
 				"Package Control: Install Package"
+			],
+			[
+				"frl",
+				"File: Reveal"
+			],
+			[
+				"flr",
+				"File: Rename"
+			],
+			[
+				"rempac",
+				"Package Control: Remove Package"
 			],
 			[
 				"insta",
@@ -243,10 +259,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
 				":set num",
 				"Tag: Lint Selection or Document"
 			],
@@ -257,10 +269,6 @@
 			[
 				":h",
 				"Set Syntax: Haskell"
-			],
-			[
-				"frl",
-				"File: Reveal"
 			],
 			[
 				"FRL",
@@ -552,17 +560,18 @@
 	},
 	"file_history":
 	[
+		"/E/github/longData/product.php",
+		"/E/github/longData/index.php",
+		"/E/github/longData/head.php",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/javascript.sublime-build",
 		"/E/github/longData/script/product.js",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/E/github/longData/head.php",
 		"/E/github/longData/case.php",
 		"/E/github/longData/style/product.css",
 		"/E/github/longData/foot.php",
 		"/E/github/longData/script/m-product.js",
 		"/E/github/longData/script/jQuery.js",
-		"/E/github/longData/index.php",
 		"/E/github/longData/about.php",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/LiveReload/README.md",
@@ -678,8 +687,7 @@
 		"/F/development tool/wamp/www/funny100/1/test/readerTEST.php",
 		"/F/development tool/wamp/www/funny100/1/serve/test.php",
 		"/F/development tool/wamp/www/funny100/1/test.php",
-		"/F/development tool/wamp/www/funny100/1/readerTEST.php",
-		"/F/development tool/wamp/www/funny100/1/serve/mysql.class.php"
+		"/F/development tool/wamp/www/funny100/1/readerTEST.php"
 	],
 	"find":
 	{
@@ -699,6 +707,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bottomBtn",
+			"160",
 			"ul",
 			"build",
 			"buildjn",
@@ -824,9 +834,7 @@
 			"start",
 			"list",
 			"array",
-			"list",
-			"item",
-			" :"
+			"list"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -850,100 +858,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "product.php",
+					"file": "head.php",
 					"settings":
 					{
-						"buffer_size": 543,
+						"buffer_size": 2957,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								543,
-								543
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
-							"is_xml": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style/product.css",
-					"settings":
-					{
-						"buffer_size": 12083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1283,
-								1283
+								1146,
+								1146
 							]
 						],
 						"settings":
@@ -998,31 +929,31 @@
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
 							"is_preview": true,
+							"is_xml": false,
 							"origin_encoding": "UTF-8",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 924.0,
+						"translation.y": 504.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "index.php",
+					"buffer": 1,
+					"file": "product.php",
 					"settings":
 					{
-						"buffer_size": 2351,
+						"buffer_size": 1725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								583,
-								583
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1089,19 +1020,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "head.php",
+					"buffer": 2,
+					"file": "style/product.css",
 					"settings":
 					{
-						"buffer_size": 2957,
+						"buffer_size": 12619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1830,
-								1830
+								12519,
+								12519
 							]
 						],
 						"settings":
@@ -1156,6 +1087,84 @@
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
 							"is_preview": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 28.0,
+						"translation.y": 5364.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "foot.php",
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1078,
+								1078
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
 							"is_xml": false,
 							"origin_encoding": "UTF-8",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -1216,6 +1225,18 @@
 		"selected_items":
 		[
 			[
+				"foo",
+				"foot.php"
+			],
+			[
+				"headphp",
+				"head.php"
+			],
+			[
+				"indephp",
+				"index.php"
+			],
+			[
 				".js",
 				"script/product.js"
 			],
@@ -1242,10 +1263,6 @@
 			[
 				"prcss",
 				"style/product.css"
-			],
-			[
-				"headphp",
-				"head.php"
 			],
 			[
 				"js",
@@ -1718,14 +1735,6 @@
 			[
 				"ind",
 				"1/index.php"
-			],
-			[
-				"sertest",
-				"1/test/serve-test.php"
-			],
-			[
-				"testphp",
-				"1/test/test.php"
 			]
 		],
 		"width": 0.0
@@ -1736,11 +1745,11 @@
 		"selected_items":
 		[
 			[
-				"t",
+				"to",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
-				"to",
+				"t",
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
@@ -1748,12 +1757,16 @@
 				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
 			],
 			[
-				"lo",
+				"todd",
+				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+			],
+			[
+				"long",
 				"/E/github/longData/longData.sublime-project"
 			],
 			[
-				"todd",
-				"/E/OneDrive/ToddMark/ToddMark.sublime-project"
+				"lo",
+				"/E/github/longData/longData.sublime-project"
 			],
 			[
 				"ta",

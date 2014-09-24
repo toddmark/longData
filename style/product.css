@@ -6,6 +6,7 @@ fieldset, lengend, button, input, textarea, /* form elements 表单元素 */
 th, td { /* table elements 表格元素 */
     margin: 0;
     padding: 0;
+    font-weight: normal;
 }
 
 /* 设置默认字体 */
@@ -265,10 +266,14 @@ product.php
 .firstLine h1{font-size: 44px; color: #333;}
 .firstLine p{font-size: 22px; text-align: right;}
 .firstLine img{}
-.firstLine button{width: 155px; height: 45px; border:none; background:url(../img/product/btn_buy_01.png);}
-.firstLine button:hover{background:url(../img/product/btn_buy_02.png); cursor: pointer;}
+.firstLine button, .bottomBtn{width: 155px; height: 45px; border:none; background:url(../img/product/btn_buy_01.png);}
+.firstLine button:hover, .bottomBtn:hover{background:url(../img/product/btn_buy_02.png); cursor: pointer;}
 .contentLine{height: 400px;}
 .contentLine img{padding-top: 40px;}
-.contentLine div{padding-top: 160px;}
+.contentLine div{padding-top: 120px;}
 .contentLine h1{font-size: 30px; font-weight: normal; color: #333;}
 .contentLine p{padding-top: 40px; color: #858585; font-size: 14px; line-height: 34px;}
+.bottomPurchase{text-align: center;}
+.bottomPurchase h1{font-size: 44px; margin: 50px 0;}
+.bottomPurchase p{margin-bottom: 50px;width: 480px; color:#858585; font-size: 20px; line-height: 34px;}
+.bottomBtn{display: block;}
